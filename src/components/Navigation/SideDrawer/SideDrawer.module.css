@@ -19,10 +19,10 @@
     .SideDrawer {
         display: none;
     }
-    .Logo {
+}
+    /* .Logo {
         height: 80%;
-    }
-    
+    }  */
     .Open {
         transform: translateX(0);
     }
@@ -30,6 +30,3 @@
     .Close {
         transform: translateX(-100%);
     }
-
-
-}
